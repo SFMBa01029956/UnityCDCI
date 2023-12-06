@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-3dtears-0.0.7";
+const cacheName = "DefaultCompany-3dtears-0.0.9";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js.unityweb",
